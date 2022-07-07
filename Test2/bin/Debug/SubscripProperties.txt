@@ -1,0 +1,11 @@
+public string Gtwuk_name { get; set;}
+public int? Gtwrmg_optintype { get; set;}
+public DateTime? Gtwuk_optindate { get; set;}
+public int? Statecode { get; set;}
+public DateTime? Createdon { get; set;}
+public string _gtwuk_contactid_value { get; set;}
+public DateTime? Modifiedon { get; set;}
+public bool? Gtwrmg_force24subscribed { get; set;}
+public int? Statuscode { get; set;}
+public string Gtwuk_subscriptionid { get; set;}
+public DateTime? Gtwrmg_optoutdate { get; set;}

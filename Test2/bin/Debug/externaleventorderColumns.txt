@@ -1,0 +1,7 @@
+Gtwuk_orderstatus INT,
+Createdon DATETIME,
+Gtwuk_name NVARCHAR(4000),
+Gtwuk_externaleventorderid NVARCHAR(4000),
+Gtwuk_eventstartdate DATETIME,
+Modifiedon DATETIME,
+_gtwuk_contactid_value NVARCHAR(4000),

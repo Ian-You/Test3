@@ -1,0 +1,15 @@
+﻿EmailAddress1
+_parentaccountid_value
+address1_line1
+address1_line2
+address1_line3
+address1_city
+address1_county
+address1_country
+address1_postalcode
+telephone1
+gtwuk_gatewaycategory
+Gtwuk_distancefromus
+accountid
+createdon
+modifiedon

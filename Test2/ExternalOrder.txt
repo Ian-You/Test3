@@ -1,0 +1,15 @@
+﻿gtwuk_name
+gtwuk_orderstatus
+gtwuk_oegrpvisitdate
+gtwuk_oegrpvisitdesc
+gtwuk_oeexpectednumguests
+gtwuk_oeallowemail
+gtwuk_oegiftaid
+gtwuk_orderamount
+gtwuk_externalid
+gtwuk_orderbalance
+gtwuk_externalorderid
+createdon
+modifiedon
+_gtwuk_accountid_value
+_gtwuk_contactid_value

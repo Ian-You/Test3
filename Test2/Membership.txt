@@ -1,0 +1,13 @@
+﻿gtwuk_name
+gtwuk_membershipstartdate
+gtwuk_membershipexpirydate
+gtwuk_membershipstatus
+gtwuk_visualid
+gtwuk_membershipid
+createdon
+modifiedon
+_gtwuk_accountid_value
+_gtwuk_contactid_value
+_gtwuk_passkindid_value
+_gtwuk_productid_value
+_gtwuk_transactioncontactid_value

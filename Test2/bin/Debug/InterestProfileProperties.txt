@@ -1,0 +1,8 @@
+public string Gtwuk_name { get; set;}
+public DateTime? Gtwrmg_optoutdate { get; set;}
+public int? Statuscode { get; set;}
+public DateTime? Createdon { get; set;}
+public string _gtwuk_contactid_value { get; set;}
+public int? Statecode { get; set;}
+public string Gtwuk_interestprofileid { get; set;}
+public DateTime? Modifiedon { get; set;}

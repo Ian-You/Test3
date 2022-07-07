@@ -1,0 +1,5 @@
+Gtwrmg_rmgproducttags NVARCHAR(4000),
+Modifiedon DATETIME,
+Productid NVARCHAR(4000),
+Createdon DATETIME,
+Name NVARCHAR(4000),

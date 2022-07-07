@@ -1,0 +1,17 @@
+public DateTime? Modifiedon { get; set;}
+public double? Gtwuk_absolutequantity { get; set;}
+public string Gtwuk_gwvisualid { get; set;}
+public double? Gtwuk_absolutetotalamount { get; set;}
+public string _gtwuk_contactid_value { get; set;}
+public DateTime? Gtwuk_datepurchased { get; set;}
+public string Gtwuk_name { get; set;}
+public string _gtwuk_transactioncontactid_value { get; set;}
+public string _gtwuk_productid_value { get; set;}
+public DateTime? Gtwuk_ticketdate { get; set;}
+public string _gtwuk_eventdateid_value { get; set;}
+public int? Gtwuk_producttype { get; set;}
+public string Gtwuk_purchasedproductid { get; set;}
+public string _gtwuk_externalorderid_value { get; set;}
+public DateTime? Createdon { get; set;}
+public DateTime? Gtwuk_ticketexpiration { get; set;}
+public string _gtwuk_accountid_value { get; set;}

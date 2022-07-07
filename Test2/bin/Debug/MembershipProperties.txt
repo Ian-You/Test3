@@ -1,0 +1,13 @@
+public string Gtwuk_visualid { get; set;}
+public DateTime? Gtwuk_membershipexpirydate { get; set;}
+public string _gtwuk_passkindid_value { get; set;}
+public string Gtwuk_membershipid { get; set;}
+public DateTime? Modifiedon { get; set;}
+public string _gtwuk_transactioncontactid_value { get; set;}
+public string Gtwuk_name { get; set;}
+public string _gtwuk_productid_value { get; set;}
+public string _gtwuk_accountid_value { get; set;}
+public DateTime? Createdon { get; set;}
+public string _gtwuk_contactid_value { get; set;}
+public DateTime? Gtwuk_membershipstartdate { get; set;}
+public int? Gtwuk_membershipstatus { get; set;}

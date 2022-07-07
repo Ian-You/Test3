@@ -1,0 +1,8 @@
+Gtwuk_name NVARCHAR(4000),
+Gtwrmg_optoutdate DATETIME,
+Statuscode INT,
+Createdon DATETIME,
+_gtwuk_contactid_value NVARCHAR(4000),
+Statecode INT,
+Gtwuk_interestprofileid NVARCHAR(4000),
+Modifiedon DATETIME,

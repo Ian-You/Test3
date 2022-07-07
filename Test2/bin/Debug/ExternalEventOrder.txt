@@ -1,0 +1,7 @@
+﻿Gtwuk_name
+Gtwuk_eventstartdate
+_Gtwuk_contactid_value
+gtwuk_orderstatus
+Gtwuk_externaleventorderid
+createdon
+modifiedon

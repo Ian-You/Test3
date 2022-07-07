@@ -1,0 +1,4 @@
+public DateTime? Modifiedon { get; set;}
+public DateTime? Createdon { get; set;}
+public string Gtwuk_name { get; set;}
+public string Gtwuk_passkindid { get; set;}

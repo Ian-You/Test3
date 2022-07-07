@@ -1,0 +1,5 @@
+public string Gtwrmg_rmgproducttags { get; set;}
+public DateTime? Modifiedon { get; set;}
+public string Productid { get; set;}
+public DateTime? Createdon { get; set;}
+public string Name { get; set;}

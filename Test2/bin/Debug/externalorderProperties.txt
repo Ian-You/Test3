@@ -1,0 +1,15 @@
+public double? Gtwuk_orderamount { get; set;}
+public DateTime? Createdon { get; set;}
+public string _gtwuk_accountid_value { get; set;}
+public string Gtwuk_externalorderid { get; set;}
+public string _gtwuk_contactid_value { get; set;}
+public string Gtwuk_externalid { get; set;}
+public int? Gtwuk_oeexpectednumguests { get; set;}
+public bool? Gtwuk_oegiftaid { get; set;}
+public double? Gtwuk_orderbalance { get; set;}
+public int? Gtwuk_orderstatus { get; set;}
+public DateTime? Modifiedon { get; set;}
+public string Gtwuk_oegrpvisitdesc { get; set;}
+public bool? Gtwuk_oeallowemail { get; set;}
+public DateTime? Gtwuk_oegrpvisitdate { get; set;}
+public string Gtwuk_name { get; set;}

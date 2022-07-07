@@ -1,0 +1,4 @@
+Gtwuk_eventtypeid NVARCHAR(4000),
+Createdon DATETIME,
+Gtwuk_name NVARCHAR(4000),
+Modifiedon DATETIME,

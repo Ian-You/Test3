@@ -1,0 +1,10 @@
+﻿gtwuk_name
+gtwuk_productid
+gtwuk_producttype
+gtwrmg_rmgproducttags
+productid
+name
+producttype
+type
+createdon
+modifiedon

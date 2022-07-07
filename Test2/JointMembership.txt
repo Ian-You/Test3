@@ -1,0 +1,10 @@
+﻿gtwuk_name
+gtwuk_membershipexpirydate
+gtwuk_membershipstartdate
+gtwuk_primarymembershipholder
+gtwuk_visualid
+gtwuk_jointmembershipid
+createdon
+_gtwuk_jointmemberid_value
+_gtwuk_membershipid_value
+_gtwuk_purchasedproductid_value

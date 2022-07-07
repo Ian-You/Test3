@@ -1,0 +1,6 @@
+_gtwuk_contactid_value NVARCHAR(4000),
+Createdon DATETIME,
+Modifiedon DATETIME,
+Gtwuk_usagedate DATETIME,
+Gtwuk_productusageid NVARCHAR(4000),
+Gtwuk_name NVARCHAR(4000),

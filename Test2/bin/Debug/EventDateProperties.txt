@@ -1,0 +1,8 @@
+public string Gtwuk_name { get; set;}
+public string _gtwuk_eventtypeid_value { get; set;}
+public DateTime? Gtwuk_eventstartdate { get; set;}
+public string Gtwuk_internalref { get; set;}
+public DateTime? Gtwuk_eventenddate { get; set;}
+public DateTime? Modifiedon { get; set;}
+public DateTime? Createdon { get; set;}
+public string Gtwuk_eventdateid { get; set;}

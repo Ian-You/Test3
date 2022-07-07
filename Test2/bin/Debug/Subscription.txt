@@ -1,0 +1,11 @@
+﻿gtwuk_name
+gtwrmg_optintype
+gtwuk_optindate
+statecode
+createdon
+_gtwuk_contactid_value
+modifiedon
+gtwrmg_force24subscribed
+statuscode
+gtwuk_subscriptionid
+gtwrmg_optoutdate

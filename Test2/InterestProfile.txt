@@ -1,0 +1,8 @@
+﻿gtwuk_name
+gtwrmg_optoutdate
+statuscode
+createdon
+_gtwuk_contactid_value
+statecode
+gtwuk_interestprofileid
+modifiedon

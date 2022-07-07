@@ -1,0 +1,8 @@
+Gtwuk_name NVARCHAR(4000),
+_gtwuk_eventtypeid_value NVARCHAR(4000),
+Gtwuk_eventstartdate DATETIME,
+Gtwuk_internalref NVARCHAR(4000),
+Gtwuk_eventenddate DATETIME,
+Modifiedon DATETIME,
+Createdon DATETIME,
+Gtwuk_eventdateid NVARCHAR(4000),

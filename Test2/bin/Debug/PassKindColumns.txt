@@ -1,0 +1,4 @@
+Modifiedon DATETIME,
+Createdon DATETIME,
+Gtwuk_name NVARCHAR(4000),
+Gtwuk_passkindid NVARCHAR(4000),

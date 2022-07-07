@@ -1,0 +1,6 @@
+﻿gtwuk_usagedate
+gtwuk_name
+_Gtwuk_contactid_value
+Gtwuk_productusageid
+createdon
+modifiedon

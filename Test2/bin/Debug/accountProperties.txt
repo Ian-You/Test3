@@ -1,0 +1,15 @@
+public string Emailaddress1 { get; set;}
+public string Address1_line3 { get; set;}
+public string Address1_line1 { get; set;}
+public string Telephone1 { get; set;}
+public string _parentaccountid_value { get; set;}
+public string Address1_line2 { get; set;}
+public string Address1_country { get; set;}
+public string Address1_city { get; set;}
+public DateTime? Modifiedon { get; set;}
+public string Accountid { get; set;}
+public string Address1_postalcode { get; set;}
+public string Address1_county { get; set;}
+public double? Gtwuk_distancefromus { get; set;}
+public DateTime? Createdon { get; set;}
+public string Gtwuk_gatewaycategory { get; set;}

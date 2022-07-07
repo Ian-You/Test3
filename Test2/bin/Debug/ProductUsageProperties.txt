@@ -1,0 +1,6 @@
+public string _gtwuk_contactid_value { get; set;}
+public DateTime? Createdon { get; set;}
+public DateTime? Modifiedon { get; set;}
+public DateTime? Gtwuk_usagedate { get; set;}
+public string Gtwuk_productusageid { get; set;}
+public string Gtwuk_name { get; set;}

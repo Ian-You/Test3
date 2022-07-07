@@ -1,0 +1,42 @@
+{
+  "objects": [
+    {
+      "ObjectRowId": 137,
+      "id": "d4pqf6n9hu",
+      "parentId": "contact",
+      "name": "AutoSyncTestObject1",
+      "childObjects": [
+        {
+          "ObjectRowId": 138,
+          "id": "4nv236r8ey",
+          "parentId": "d4pqf6n9hu",
+          "name": "AutoSyncTestObject2",
+          "childObjects": [
+            {
+              "ObjectRowId": 139,
+              "id": "mafqb2865r",
+              "parentId": "4nv236r8ey",
+              "name": "AutoSyncTestObject3",
+              "childObjects": [
+                {
+                  "ObjectRowId": 140,
+                  "id": "uzjghdkbap",
+                  "parentId": "mafqb2865r",
+                  "name": "AutoSyncTestObject4",
+                  "childObjects": [
+                    {
+                      "ObjectRowId": 141,
+                      "id": "9ckvqjerp2",
+                      "parentId": "uzjghdkbap",
+                      "name": "AutoSyncTestObject5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

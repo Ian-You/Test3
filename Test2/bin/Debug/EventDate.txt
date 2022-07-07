@@ -1,0 +1,8 @@
+﻿gtwuk_name
+gtwuk_eventstartdate
+gtwuk_eventenddate
+gtwuk_internalref
+gtwuk_eventdateid
+_gtwuk_eventtypeid_value
+createdon
+modifiedon

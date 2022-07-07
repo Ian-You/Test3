@@ -1,0 +1,4 @@
+public string Gtwuk_eventtypeid { get; set;}
+public DateTime? Createdon { get; set;}
+public string Gtwuk_name { get; set;}
+public DateTime? Modifiedon { get; set;}

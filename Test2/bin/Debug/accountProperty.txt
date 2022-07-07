@@ -1,0 +1,12 @@
+public public string emailaddress1 { get,set }
+public public string address1_line3 { get,set }
+public public string address1_line1 { get,set }
+public public string telephone1 { get,set }
+public public string address1_line2 { get,set }
+public public string address1_country { get,set }
+public public string address1_city { get,set }
+public public string accountid { get,set }
+public public string address1_postalcode { get,set }
+public public string address1_county { get,set }
+public public DateTime? gtwuk_distancefromus { get,set }
+public public string gtwuk_gatewaycategory { get,set }

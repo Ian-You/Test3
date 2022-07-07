@@ -1,0 +1,7 @@
+public int? Gtwuk_orderstatus { get; set;}
+public DateTime? Createdon { get; set;}
+public string Gtwuk_name { get; set;}
+public string Gtwuk_externaleventorderid { get; set;}
+public DateTime? Gtwuk_eventstartdate { get; set;}
+public DateTime? Modifiedon { get; set;}
+public string _gtwuk_contactid_value { get; set;}
